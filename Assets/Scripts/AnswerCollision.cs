@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AnswerCollision : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public class AnswerCollision : MonoBehaviour
         if (gameObject.tag == "AnswerFalse" && other.gameObject.tag == "Player")
         {
             GameManager.GameOver = true;
+
+            SceneManager.LoadScene("GameOverScene");
         }
 
         if (gameObject.tag == "AnswerTrue" && other.gameObject.tag == "Player" && !GameManager.GameOver)

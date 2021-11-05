@@ -31,6 +31,7 @@ public class PlayerMove : MonoBehaviour
     private void Start()
     {
         Rigidbody = GetComponent<Rigidbody>();
+        GameManager.GameOver = false;
     }
     void FixedUpdate()
     {
