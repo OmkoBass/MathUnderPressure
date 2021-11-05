@@ -1,0 +1,68 @@
+.button {
+    background-color: rgb(81, 207, 102);
+    -unity-font-style: bold;
+    font-size: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.button:hover {
+    background-color: rgb(47, 158, 68);
+    -unity-font-style: bold;
+    font-size: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.button:active {
+    background-color: rgb(43, 138, 62);
+    -unity-font-style: bold;
+    font-size: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.button-back {
+    background-color: rgba(255, 146, 43, 255);
+}
+
+.button-back:hover {
+    background-color: rgb(253, 126, 20);
+}
+
+.button-back:active {
+    background-color: rgb(232, 89, 12);
+}
+
+.title-text {
+    font-size: 32px;
+    color: rgb(26, 27, 30);
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    -unity-font-style: bold;
+}

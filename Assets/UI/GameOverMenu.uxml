@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="Styles/MainMenuStyles.uss" />
+    <ui:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement style="align-items: stretch; justify-content: center;">
+            <ui:VisualElement style="justify-content: center; align-items: center;">
+                <ui:Label text="Game Over :&apos;(" display-tooltip-when-elided="true" class="title-text" style="margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px; font-size: 48px;" />
+                <ui:Label text="Score: Num" display-tooltip-when-elided="true" name="LabelScore" class="title-text" style="margin-left: 8px; margin-right: 8px; margin-top: 8px; margin-bottom: 8px; justify-content: flex-start; align-items: stretch;" />
+            </ui:VisualElement>
+            <ui:Button text="Restart" display-tooltip-when-elided="true" name="ButtonRestart" class="button" />
+            <ui:Button text="Main Menu" display-tooltip-when-elided="true" name="ButtonMainMenu" class="button button-back" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
