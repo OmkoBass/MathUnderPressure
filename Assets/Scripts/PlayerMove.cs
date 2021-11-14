@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMove : MonoBehaviour
 {
@@ -38,6 +39,13 @@ public class PlayerMove : MonoBehaviour
         if (GameManager.GameOver)
         {
             return;
+        }
+
+        if (this.transform.position.y < -4)
+        {
+            GameManager.GameOver = true;
+
+            SceneManager.LoadScene("GameOverScene");
         }
 
         speedTimer -= Time.deltaTime;
