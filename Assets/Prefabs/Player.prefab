@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 6397521290484648908}
   - component: {fileID: 6730898541454035414}
   - component: {fileID: 835480418813833123}
+  - component: {fileID: 671535933054834409}
   m_Layer: 0
   m_Name: PlayerSphere
   m_TagString: Untagged
@@ -143,3 +144,22 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &671535933054834409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8299772420901208000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e9ef6312026f09408af5a3390885f20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StrafeSpeed: 20
+  Speed: 6
+  MaxSpeed: 12
+  SpeedUpIncrement: 0.2
+  SpeedUpReset: 15
+  KeyLeft: 97
+  KeyRight: 100
