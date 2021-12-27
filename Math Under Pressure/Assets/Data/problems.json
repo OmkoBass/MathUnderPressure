@@ -1,0 +1,522 @@
+{
+    "problems" : [
+        {
+            "problem" : "3 + 4",
+            "answerTrue" : "7",
+            "answerFalse" : "9"
+        },
+        {
+            "problem" : "4 + 2",
+            "answerTrue" : "6",
+            "answerFalse" : "8"
+        },
+        {
+            "problem" : "7 + 5",
+            "answerTrue" : "12",
+            "answerFalse" : "10"
+        },
+        {
+            "problem" : "10 + 10",
+            "answerTrue" : "20",
+            "answerFalse" : "30"
+        },
+        {
+            "problem" : "9 + 15",
+            "answerTrue" : "24",
+            "answerFalse" : "25"
+        },
+        {
+            "problem" : "10 + 18",
+            "answerTrue" : "28",
+            "answerFalse" : "26"
+        },
+        {
+            "problem" : "12 + 6",
+            "answerTrue" : "18",
+            "answerFalse" : "19"
+        },
+        {
+            "problem" : "13 - 5",
+            "answerTrue" : "8",
+            "answerFalse" : "6"
+        },
+        {
+            "problem" : "22 - 17",
+            "answerTrue" : "5",
+            "answerFalse" : "7"
+        },
+        {
+            "problem" : "4 + 5 + 11",
+            "answerTrue" : "20",
+            "answerFalse" : "19"
+        },
+        {
+            "problem" : "11 - 2 + 23",
+            "answerTrue" : "32",
+            "answerFalse" : "28"
+        },
+        {
+            "problem" : "10 + 5 + 10 - 7",
+            "answerTrue" : "18",
+            "answerFalse" : "20"
+        },
+        {
+            "problem" : "89 - 25",
+            "answerTrue" : "64",
+            "answerFalse" : "54"
+        },
+        {
+            "problem" : "79 + 37",
+            "answerTrue" : "116",
+            "answerFalse" : "151"
+        },
+        {
+            "problem" : "38 - 21",
+            "answerTrue" : "17",
+            "answerFalse" : "21"
+        },
+        {
+            "problem" : "24 + 54",
+            "answerTrue" : "78",
+            "answerFalse" : "99"
+        },
+        {
+            "problem" : "74 - 50",
+            "answerTrue" : "24",
+            "answerFalse" : "26"
+        },
+        {
+            "problem" : "135 - 32",
+            "answerTrue" : "103",
+            "answerFalse" : "112"
+        },
+        {
+            "problem" : "180 - 80",
+            "answerTrue" : "100",
+            "answerFalse" : "80"
+        },
+        {
+            "problem" : "35 - 32",
+            "answerTrue" : "3",
+            "answerFalse" : "2"
+        },
+        {
+            "problem" : "61 + 26",
+            "answerTrue" : "87",
+            "answerFalse" : "69"
+        },
+        {
+            "problem" : "51 + 48",
+            "answerTrue" : "99",
+            "answerFalse" : "109"
+        },
+        {
+            "problem" : "(89 - 25) + (15 + 15)",
+            "answerTrue" : "94",
+            "answerFalse" : "74"
+        },
+        {
+            "problem" : "(79 + 12) + 37",
+            "answerTrue" : "128",
+            "answerFalse" : "116"
+        },
+        {
+            "problem" : "40-(38 - 21)",
+            "answerTrue" : "23",
+            "answerFalse" : "17"
+        },
+        {
+            "problem" : "5 * 3",
+            "answerTrue" : "15",
+            "answerFalse" : "18"
+        },
+        {
+            "problem" : "7 * 8",
+            "answerTrue" : "56",
+            "answerFalse" : "54"
+        },
+        {
+            "problem" : "6 * 1",
+            "answerTrue" : "6",
+            "answerFalse" : "16"
+        },
+        {
+            "problem" : "8 * 2",
+            "answerTrue" : "16",
+            "answerFalse" : "14"
+        },
+        {
+            "problem" : "2 * 4",
+            "answerTrue" : "8",
+            "answerFalse" : "6"
+        },
+        {
+            "problem" : "3 * 9",
+            "answerTrue" : "27",
+            "answerFalse" : "39"
+        },
+        {
+            "problem" : "8 * 4",
+            "answerTrue" : "32",
+            "answerFalse" : "38"
+        },
+        {
+            "problem" : "9 * 9",
+            "answerTrue" : "81",
+            "answerFalse" : "90"
+        },
+        {
+            "problem" : "5 * 6",
+            "answerTrue" : "30",
+            "answerFalse" : "35"
+        },
+        {
+            "problem" : "7 * 10",
+            "answerTrue" : "70",
+            "answerFalse" : "77"
+        },
+        {
+            "problem" : "6 * 8",
+            "answerTrue" : "48",
+            "answerFalse" : "14"
+        },{
+            "problem" : "8 * 7",
+            "answerTrue" : "56",
+            "answerFalse" : "54"
+        },
+        {
+            "problem" : "3 * 6",
+            "answerTrue" : "18",
+            "answerFalse" : "28"
+        },
+        {
+            "problem" : "8 * 5",
+            "answerTrue" : "40",
+            "answerFalse" : "45"
+        },
+        {
+            "problem" : "10 * 10",
+            "answerTrue" : "100",
+            "answerFalse" : "1000"
+        },
+        {
+            "problem" : "63 / 9",
+            "answerTrue" : "7",
+            "answerFalse" : "8"
+        },
+        {
+            "problem" : "21 / 3",
+            "answerTrue" : "7",
+            "answerFalse" : "9"
+        },
+        {
+            "problem" : "11 * 11",
+            "answerTrue" : "121",
+            "answerFalse" : "122"
+        },
+        {
+            "problem" : "13 * 13",
+            "answerTrue" : "169",
+            "answerFalse" : "166"
+        },
+        {
+            "problem" : "5 * 12",
+            "answerTrue" : "60",
+            "answerFalse" : "77"
+        },
+        {
+            "problem" : "6 * 16",
+            "answerTrue" : "96",
+            "answerFalse" : "116"
+        },
+        {
+            "problem" : "11 * 8",
+            "answerTrue" : "88",
+            "answerFalse" : "68"
+        },
+        {
+            "problem" : "9 * 14",
+            "answerTrue" : "126",
+            "answerFalse" : "114"
+        },
+        {
+            "problem" : "30 * 9",
+            "answerTrue" : "270",
+            "answerFalse" : "300"
+        },
+        {
+            "problem" : "70 * 5",
+            "answerTrue" : "350",
+            "answerFalse" : "278"
+        },        {
+            "problem" : "40 * 7",
+            "answerTrue" : "280",
+            "answerFalse" : "240"
+        },
+        {
+            "problem" : "80 * 9",
+            "answerTrue" : "720",
+            "answerFalse" : "785"
+        },
+        {
+            "problem" : "4 * 90",
+            "answerTrue" : "360",
+            "answerFalse" : "844"
+        },
+        {
+            "problem" : "314 * 10",
+            "answerTrue" : "3140",
+            "answerFalse" : "31400"
+        },
+        {
+            "problem" : "62 * 10",
+            "answerTrue" : "620",
+            "answerFalse" : "6200"
+        },
+        {
+            "problem" : "5.1 * 10",
+            "answerTrue" : "51",
+            "answerFalse" : "55.1"
+        },
+        {
+            "problem" : "100 * 10",
+            "answerTrue" : "1000",
+            "answerFalse" : "10000"
+        },
+        {
+            "problem" : "63 * 10",
+            "answerTrue" : "630",
+            "answerFalse" : "613"
+        },
+        {
+            "problem" : "100 * 15",
+            "answerTrue" : "1500",
+            "answerFalse" : "150"
+        },
+        {
+            "problem" : "2 * 220",
+            "answerTrue" : "440",
+            "answerFalse" : "404"
+        },
+        {
+            "problem" : "2 * 140",
+            "answerTrue" : "280",
+            "answerFalse" : "440"
+        },
+        {
+            "problem" : "20 * 10",
+            "answerTrue" : "200",
+            "answerFalse" : "22000"
+        },
+        {
+            "problem" : "11 * 21",
+            "answerTrue" : "231",
+            "answerFalse" : "201"
+        },
+        {
+            "problem" : "60 * 80",
+            "answerTrue" : "4800",
+            "answerFalse" : "4080"
+        },
+        {
+            "problem" : "36 * 7",
+            "answerTrue" : "252",
+            "answerFalse" : "482"
+        },
+        {
+            "problem" : "121 * 100",
+            "answerTrue" : "12100",
+            "answerFalse" : "121000"
+        },
+        {
+            "problem" : "16 * 13",
+            "answerTrue" : "208",
+            "answerFalse" : "169"
+        },
+        {
+            "problem" : "4 * 600",
+            "answerTrue" : "2400",
+            "answerFalse" : "2040"
+        },
+        {
+            "problem" : "1000 * 1000",
+            "answerTrue" : "1000000",
+            "answerFalse" : "100000"
+        },
+        {
+            "problem" : "72 / 9",
+            "answerTrue" : "8",
+            "answerFalse" : "9"
+        },
+        {
+            "problem" : "50 / 10",
+            "answerTrue" : "5",
+            "answerFalse" : "10"
+        },
+        {
+            "problem" : "28 / 4",
+            "answerTrue" : "7",
+            "answerFalse" : "8"
+        },
+        {
+            "problem" : "64.8 / 10",
+            "answerTrue" : "6.48",
+            "answerFalse" : "648"
+        },
+        {
+            "problem" : "48 / 6",
+            "answerTrue" : "8",
+            "answerFalse" : "6"
+        },
+        {
+            "problem" : "54 / 9",
+            "answerTrue" : "6",
+            "answerFalse" : "9"
+        },
+        {
+            "problem" : "81 / 9",
+            "answerTrue" : "9",
+            "answerFalse" : "8"
+        },
+        {
+            "problem" : "15 / 3",
+            "answerTrue" : "5",
+            "answerFalse" : "10"
+        },
+        {
+            "problem" : "56 / 8",
+            "answerTrue" : "7",
+            "answerFalse" : "6"
+        },
+        {
+            "problem" : "42 / 7",
+            "answerTrue" : "6",
+            "answerFalse" : "7"
+        },
+        {
+            "problem" : "64 / 8",
+            "answerTrue" : "8",
+            "answerFalse" : "6"
+        },
+        {
+            "problem" : "2500 / 5",
+            "answerTrue" : "500",
+            "answerFalse" : "50"
+        },
+        {
+            "problem" : "1800 / 3",
+            "answerTrue" : "600",
+            "answerFalse" : "300"
+        },
+        {
+            "problem" : "1800 / 6",
+            "answerTrue" : "300",
+            "answerFalse" : "600"
+        },
+        {
+            "problem" : "10000 / 100",
+            "answerTrue" : "100",
+            "answerFalse" : "1000"
+        },
+        {
+            "problem" : "3 * 10 + 18",
+            "answerTrue" : "48",
+            "answerFalse" : "54"
+        },
+        {
+            "problem" : "9 * 10 - 20",
+            "answerTrue" : "70",
+            "answerFalse" : "60"
+        },
+        {
+            "problem" : "6 + 12 / 3",
+            "answerTrue" : "10",
+            "answerFalse" : "22"
+        },
+        {
+            "problem" : "11 * 3 + 5",
+            "answerTrue" : "38",
+            "answerFalse" : "45"
+        },
+        {
+            "problem" : "25 - 14/2 + 2",
+            "answerTrue" : "20",
+            "answerFalse" : "17"
+        },
+        {
+            "problem" : "8 * 5 + 1/1",
+            "answerTrue" : "41",
+            "answerFalse" : "51"
+        },
+        {
+            "problem" : "63 / 9 + 55",
+            "answerTrue" : "62",
+            "answerFalse" : "56"
+        },
+        {
+            "problem" : "10/5 + 81/9",
+            "answerTrue" : "11",
+            "answerFalse" : "12"
+        },
+        {
+            "problem" : "144/12 * 2 + 36/6",
+            "answerTrue" : "30",
+            "answerFalse" : "300"
+        },
+        {
+            "problem" : "100/20 + 30",
+            "answerTrue" : "35",
+            "answerFalse" : "80"
+        },
+        {
+            "problem" : "120/2 + 180/6",
+            "answerTrue" : "90",
+            "answerFalse" : "80"
+        },
+        {
+            "problem" : "12 * 12 / 2 ",
+            "answerTrue" : "72",
+            "answerFalse" : "84"
+        },
+        {
+            "problem" : "4 * 3 + 160/10",
+            "answerTrue" : "28",
+            "answerFalse" : "50"
+        },
+        {
+            "problem" : "330 / 10 + 2 * 2",
+            "answerTrue" : "37",
+            "answerFalse" : "144"
+        },
+        {
+            "problem" : "(1250 - 350) + 3 * 3 ",
+            "answerTrue" : "909",
+            "answerFalse" : "1000"
+        },
+        {
+            "problem" : "(142 + 121) - 30 * 2",
+            "answerTrue" : "203",
+            "answerFalse" : "330"
+        },
+        {
+            "problem" : "50 - 5 * (27 + 3)",
+            "answerTrue" : "-100",
+            "answerFalse" : "100"
+        },
+        {
+            "problem" : "49 + (4 * 4) + 2",
+            "answerTrue" : "67",
+            "answerFalse" : "100"
+        },
+        {
+            "problem" : "(142 + 121) - 30 * 2",
+            "answerTrue" : "203",
+            "answerFalse" : "330"
+        },
+        {
+            "problem" : "62 + (7 * 2) - 8 * 3",
+            "answerTrue" : "52",
+            "answerFalse" : "72"
+        }
+    ]
+}
